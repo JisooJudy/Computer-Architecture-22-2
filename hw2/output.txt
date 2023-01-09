@@ -1,0 +1,4 @@
+lw x9,120(x10)
+add x9,x21,x9
+addi x9,x9,1
+sw x9,120(x10)
